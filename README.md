@@ -12,5 +12,6 @@ When I went to upload the project to github, it was too large, and I couldn't ge
 
 Lab 6:
 I chose to do part 2 with shadertoy
+here is the texture with the corrected aspect ratio: ![](images/lab6.png)
 Here is my work: https://www.shadertoy.com/view/wlsBRf
 Here is a galaxy piece that I thought was very cool looking: https://www.shadertoy.com/view/MdXSzS
