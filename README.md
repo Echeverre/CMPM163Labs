@@ -15,3 +15,7 @@ I chose to do part 2 with shadertoy
 here is the texture with the corrected aspect ratio: ![](images/lab6.png)
 Here is my work: https://www.shadertoy.com/view/wlsBRf
 Here is a galaxy piece that I thought was very cool looking: https://www.shadertoy.com/view/MdXSzS
+
+Lab 7:
+Here is the video: https://drive.google.com/file/d/1DuC0q0cx6aLU2OO0XilXQuFDGRfSEPmT/view?usp=sharing
+At first I tried to make a perlin noise wave for the mountain side, as I knew that that was how they had done minecraft, but after tinkering around with it, I relaized that the plane gameObject did not have enough vertices for that to work, so I tried to create a plane in Maya with more vertices, but then I couldn't get that to work. In the end, I ended up using a sphere that I just squash and stretched until it was almost a plane, and then submerged half of it beneath the water. I created a light and then edited it so that it would not create shadows, so that it would have this almost watercolor look to the scene.
