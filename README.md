@@ -19,3 +19,11 @@ Here is a galaxy piece that I thought was very cool looking: https://www.shadert
 Lab 7:
 Here is the video: https://drive.google.com/file/d/1DuC0q0cx6aLU2OO0XilXQuFDGRfSEPmT/view?usp=sharing
 At first I tried to make a perlin noise wave for the mountain side, as I knew that that was how they had done minecraft, but after tinkering around with it, I relaized that the plane gameObject did not have enough vertices for that to work, so I tried to create a plane in Maya with more vertices, but then I couldn't get that to work. In the end, I ended up using a sphere that I just squash and stretched until it was almost a plane, and then submerged half of it beneath the water. I created a light and then edited it so that it would not create shadows, so that it would have this almost watercolor look to the scene.
+
+Lab 8:
+
+Here is the video: https://drive.google.com/file/d/1NcXJE5RL4-gpI6yZLQC5c3Ry8FuYnRbJ/view?usp=sharing
+
+I was inspired by this image: ![](images/lab8.jpg)
+
+I liked how the town in the original image wasn't as symmetrical as a more modern city, so I included a random rotation to all the buildings so that they would not be neatly lined up. It gives the town a more chaotic feel, which I kinda liked. I also used a technique similar to the one in the tutorial video to create patches of space that would be empty to kind of act as town squares.
